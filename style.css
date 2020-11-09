@@ -1,0 +1,54 @@
+body {
+	background-color:#ece6d9;
+	margin: 1em auto;
+	font-size: 10px;
+	padding: 1em;
+	text-align: center;
+	font-family: "mr-eaves-sans", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size:7em
+	color: #555
+}
+
+h1 {
+	color: #88806c;
+	font-family: "starling", serif;
+	font-weight: 500;
+	font-style: normal;
+	font-size: 4em
+}
+
+h2 {
+	color:#a59c86;
+	font-family: "starling", serif;
+	font-weight: 250;
+	font-style: normal;
+	font-size: 3em
+}
+
+h3 {
+	color:#585858;
+	font-family: "starling", serif;
+	font-weight: 300;
+	font-style: italic;
+	font-size: 2em
+}
+
+p {
+	color:#444;
+	max-width: 30em;
+	width: 100%;
+	text-align: left;
+	margin: 1em auto;
+	font-size: 1.8em;
+	line-height: 2em;
+}
+
+img.logo {
+	width: 100%;
+	height: auto;
+	max-width: 38em;
+	max-height: 38em;
+	margin: 2em auto;
+}
